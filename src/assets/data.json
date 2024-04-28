@@ -1,0 +1,57 @@
+{
+    "transaction": [
+        {
+            "id": "1",
+            "amount": 100,
+            "quantity": 5,
+            "discount": 10,
+            "status": "Processing"
+        },
+        {
+            "id": "2",
+            "amount": 100,
+            "quantity": 5,
+            "discount": 10,
+            "status": "Processing"
+        },
+        {
+            "id": "3",
+            "amount": 100,
+            "quantity": 5,
+            "discount": 10,
+            "status": "Shipped"
+        },
+        {
+            "id": "4",
+            "amount": 100,
+            "quantity": 5,
+            "discount": 10,
+            "status": "Processing"
+        },
+        {
+            "id": "5",
+            "amount": 100,
+            "quantity": 5,
+            "discount": 10,
+            "status": "Processing"
+        }
+    ],
+    "categories": [
+        {
+            "heading": "Laptops",
+            "value": 40
+        },
+        {
+            "heading": "Shoes",
+            "value": 100
+        },
+        {
+            "heading": "Cameras",
+            "value": 80
+        },
+        {
+            "heading": "Jeans",
+            "value": 60
+        }
+    ]
+}
